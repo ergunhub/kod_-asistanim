@@ -32,4 +32,4 @@ Sistemimizdeki karar mekanizmasının temelini oluşturan **Kritik Eşik** mant�
 * MEB Bilişim Teknolojileri, *Programlama Temelleri 9 Ders Kitabı*, Millî Eğitim Bakanlığı Yayınları, Ankara, 2026.
 * GitHub Dokümantasyonu ve Markdown Rehberi (docs.github.com)
 
-<img width="1024" height="1263" alt="basit_kayit_akisi" src="https://github.com/user-attachments/assets/c02ab953-9dcc-4f3f-9d8d-9e2ba7a179ae" />
+![Kritik Eşik Mantığı Örneği Akış Şeması](su_seviye_akis_kontrol.jpg)
