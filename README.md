@@ -8,7 +8,7 @@ Bu proje; kullanıcıların günlük işlerinde (selamlama, temel hesaplamalar, 
 ## Projenin Hedefleri * **v0.1:** Dijital deponun yapılandırılması, proje vitrininin (README.md) ve temel mimarinin oluşturulması.
 * **v1.0 (Akıllı Menü):** Kullanıcı seçimlerini yöneten 'if-elif-else' karar blokları ve temel güvenlik protokollerinin eklenmesi.
 * **v2.0 (Veri Saklama ve Döngüler):** 'while' ve 'for' döngü motorlarıyla dinamik liste ve sepet yönetimi altyapısının kurulması.
-* **v3.0 (Kalıcı Mimarisi):** JSON/TXT tabanlı dosya yönetimi, hata ayıklama (try-except) ve dijital portfolyo lansmanı.
+* **v3.0 (Kalıcı Mimarisi):** JSON/TXT tabanlı dosya yönetimi, hata ayıklama (try-except) ve dijital portfolyo hazırlama.
 
 ## Proje Kapsamı (Kritik Eşik Mantığı)
 Sistemimizdeki karar mekanizmasının temelini oluşturan **Kritik Eşik** mantığının metinsel sözde kodu aşağıda tanımlanmıştır:
