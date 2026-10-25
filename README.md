@@ -13,7 +13,7 @@ Bu proje; kullanıcıların günlük işlerinde (selamlama, temel hesaplamalar, 
 ## Proje Kapsamı (Kritik Eşik Mantığı)
 Sistemimizdeki karar mekanizmasının temelini oluşturan **Kritik Eşik** mantığının metinsel sözde kodu aşağıda tanımlanmıştır:
 ## Algoritma ve Sözde Kod
-'''text
+'''
 1. BAŞLA
 2. saat = 1
 3. Sensörden su_seviyesi verisini oku.
@@ -27,7 +27,7 @@ Sistemimizdeki karar mekanizmasının temelini oluşturan **Kritik Eşik** mant�
         saat = saat + 1
         ADIM 3'e GİT.
 6. DUR
-
+'''
 ## Kaynakça 
-* MEB Bilişim Teknolojileri, *Programlama Temelleri 9 Ders Kitabı*, Millî Eğitim Bakanlığı Yayınları, Ankara, 2024.
+* MEB Bilişim Teknolojileri, *Programlama Temelleri 9 Ders Kitabı*, Millî Eğitim Bakanlığı Yayınları, Ankara, 2026.
 * GitHub Dokümantasyonu ve Markdown Rehberi (docs.github.com)
