@@ -12,13 +12,20 @@ Bu proje; kullanıcıların günlük işlerinde (selamlama, temel hesaplamalar, 
 
 ## Proje Kapsamı (Kritik Eşik Mantığı)
 Sistemimizdeki karar mekanizmasının temelini oluşturan **Kritik Eşik** mantığının metinsel sözde kodu aşağıda tanımlanmıştır:
+## Algoritma ve Sözde Kod
+'''text
 1. BAŞLA
-2. Kullanıcıdan kontrol edilecek sayısal veriyi (ör. Bakiye / Puan / Tutar) al.
-3. Belirlenen 'KRITIK_ESIK' sabiti ile alınan veriyi karşılaştır.
-4. EĞER Girdi_Verisi >= KRITIK_ESIK İSE:
-     Ekrana "Kritik eşik aşıldı. İşlem onaylandı." yazdır.
-6. DEĞİLSE:
-     Ekrana "Kritik eşik altında kalındı! İşlem reddedildi." yazdır.
+2. saat = 1
+3. Sensörden su_seviyesi verisini oku.
+4. EĞER su_seviyesi > 50 İSE:
+        Ekrana "KRİTİK EŞİK AŞILDI! Tahliye Kapakları Açılıyor." yazdır.
+        Ekrana "Tahliye Saati: ", saat yazdır.
+        Ekrana "Kritik Su Seviyesi: ", su_seviyesi yazdır.
+        ADIM 6'ya GİT.
+5. DEĞİLSE:
+        Ekrana "Su seviyesi güvenli sınırda. Kapaklar Kapalı." yazdır.
+        saat = saat + 1
+        ADIM 3'e GİT.
 6. DUR
 
 ## Kaynakça 
