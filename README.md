@@ -1,6 +1,6 @@
 **Proje Yazarı:** [Ergün DOĞRU]
 
-# Kod-Asistan v0.1
+# Projenin Adı:  Kod-Asistan v0.1
 
 ## Projenin Amacı
 Bu proje; kullanıcıların günlük işlerinde (selamlama, temel hesaplamalar, karar verme süreçleri vb.) kendilerine yardımcı olacak, modüler ve kararlı bir dijital asistan tasarlamak amacıyla geliştirilmektedir.
